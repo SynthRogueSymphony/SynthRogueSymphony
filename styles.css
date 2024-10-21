@@ -1,0 +1,4 @@
+// Add any interactive JavaScript code here
+document.addEventListener("DOMContentLoaded", () => {
+    console.log("Website Loaded");
+});
